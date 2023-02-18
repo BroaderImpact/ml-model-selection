@@ -1,5 +1,7 @@
 
-![GitHub contributors](https://img.shields.io/github/contributors/BroaderImpact/ml-model-selection) ![GitHub forks](https://img.shields.io/github/forks/BroaderImpact/ml-model-selection?style=social)
+![GitHub contributors](https://img.shields.io/github/contributors/BroaderImpact/ml-model-selection) ![GitHub issues](https://img.shields.io/github/issues/BroaderImpact/ml-model-selection) ![GitHub](https://img.shields.io/github/license/BroaderImpact/ml-model-selection) ![Packagist Stars](https://img.shields.io/packagist/stars/BroaderImpact/ml-model-selection)
+
+<!--- ![GitHub forks](https://img.shields.io/github/forks/BroaderImpact/ml-model-selection?style=social) --->
 
 # ml-model-selection
 
